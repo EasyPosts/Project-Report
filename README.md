@@ -17,11 +17,11 @@ Nombre del Producto: EasyPosts
 
 Integrantes:
 
-Carlos Edward Avellaneda Ramos - u201923994
-Luis Sebastian Chavez Guerrero - u202216444
-Jorge Gerardo Quilla Luyo - u20211b197
-Rony Piero Ticona Luque - u201420422
-Miguel Angel Ybañez Esquerre - u20201b298
+- Carlos Edward Avellaneda Ramos - u201923994
+- Luis Sebastian Chavez Guerrero - u202216444
+- Jorge Gerardo Quilla Luyo - u20211b197
+- Rony Piero Ticona Luque - u201420422
+- Miguel Angel Ybañez Esquerre - u20201b298
 
 Ciclo: 2024-01
 Mes: Abril
