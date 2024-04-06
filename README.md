@@ -24,6 +24,7 @@ Integrantes:
 - Miguel Angel Ybañez Esquerre - u20201b298
 
 Ciclo: 2024-01
+
 Mes: Abril
 
 # Registro de versiones del informe
